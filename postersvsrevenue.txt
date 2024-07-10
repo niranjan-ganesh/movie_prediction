@@ -1,0 +1,27 @@
+/Users/niranjanganesan/PycharmProjects/ECE590/venv/bin/python /Users/niranjanganesan/PycharmProjects/ECE590/postervsrevenue.py
+Epoch 1/50, Loss: 0.4419, Patience: 0
+Epoch 2/50, Loss: 0.0505, Patience: 0
+Epoch 3/50, Loss: 0.0467, Patience: 0
+Epoch 4/50, Loss: 0.0438, Patience: 0
+Epoch 5/50, Loss: 0.0396, Patience: 0
+Epoch 6/50, Loss: 0.0369, Patience: 0
+Epoch 7/50, Loss: 0.0316, Patience: 0
+Epoch 8/50, Loss: 0.0289, Patience: 0
+Epoch 9/50, Loss: 0.0230, Patience: 0
+Epoch 10/50, Loss: 0.0198, Patience: 0
+Epoch 11/50, Loss: 0.0127, Patience: 0
+Epoch 12/50, Loss: 0.0073, Patience: 0
+Epoch 13/50, Loss: 0.0068, Patience: 0
+Epoch 14/50, Loss: 0.0086, Patience: 0
+Epoch 15/50, Loss: 0.0086, Patience: 1
+Epoch 16/50, Loss: 0.0047, Patience: 2
+Epoch 17/50, Loss: 0.0042, Patience: 0
+Epoch 18/50, Loss: 0.0047, Patience: 0
+Epoch 19/50, Loss: 0.0045, Patience: 1
+Epoch 20/50, Loss: 0.0168, Patience: 2
+Epoch 21/50, Loss: 0.0088, Patience: 3
+Epoch 22/50, Loss: 0.0052, Patience: 4
+Early stopping at epoch 22
+Test Loss: 0.0360, Accuracy: 0.8910
+
+Process finished with exit code 0
